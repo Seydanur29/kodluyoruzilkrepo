@@ -8,6 +8,7 @@ https://github.com/Seydanur29/kodluyoruzilkrepo.git
 ```
 # Usage
 Projeyi clonladıktan sonra Visual Stüdyo Code programında açınız.
+
 Linux için 
 ```
 cd kodluyoruz
@@ -19,4 +20,6 @@ Pull requestler kabul edilir.Büyük degisiklikler için, lütfen önce neyi deg
 
 # Licence
 [MIT](https://kodluyoruz.org)
+
+
 ![Lorem Picsum Gorsel](https://picsum.photos/200/300)
