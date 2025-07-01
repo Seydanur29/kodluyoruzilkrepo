@@ -12,4 +12,4 @@ https://github.com/Seydanur29/kodluyoruzilkrepo.git
 # Licence
 [MIT](https://kodluyoruz.org)
 ![Acıklama] (url)
-![Lorem Picsum Gorsel] (https://picsum.photos/200/300)
+![Lorem Picsum Gorsel](https://picsum.photos/200/300)
