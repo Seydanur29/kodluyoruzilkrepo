@@ -22,4 +22,4 @@ Pull requestler kabul edilir.Büyük degisiklikler için, lütfen önce neyi deg
 [MIT](https://kodluyoruz.org)
 
 
-![Lorem Picsum Gorsel](https://picsum.photos/200/300)
+![Lorem Picsum Gorsel](https://picsum.photos/200/400)
